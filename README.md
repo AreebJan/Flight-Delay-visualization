@@ -1,6 +1,6 @@
 # Flight Delay Dashboard
 
-An interactive dashboard built with Python, Dash, and Plotly to visualize airline flight delay statistics across the United States.
+An interactive dashboard built with Python, Dash, and Plotly to visualize airline flight delay statistics across the United States from 1987-2020.
 
 ## Overview
 
@@ -68,6 +68,11 @@ Open the dashboard in your browser:
 ```bash
 http://127.0.0.1:8050/
 ```
+Dashboard Preview:
+
+<img width="1487" height="556" alt="Screenshot 2026-05-11 at 20 13 03" src="https://github.com/user-attachments/assets/5dbaba29-5ddb-4a1a-8fad-e3bef3dce8ef" />
+
+<img width="1461" height="795" alt="Screenshot 2026-05-11 at 20 13 12" src="https://github.com/user-attachments/assets/845628af-1f6e-4fcd-8e97-58b0a06a3113" />
 
 
 Areeb Jan
